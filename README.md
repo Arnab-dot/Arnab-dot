@@ -548,9 +548,7 @@ goals_2026 = {
 
 ### "If you don't star, a bug will haunt your code forever"
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Arnab-dot&style=for-the-badge&color=blueviolet)
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%"/>
 
 </div>
 
