@@ -218,7 +218,6 @@ me.say_hi()
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6F00&center=true&vCenter=true&width=700&lines=Training+Neural+Networks;Deep+Learning+Wizard;Computer+Vision+Expert;NLP+%26+LLM+Master;AI+Model+Deployment" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
   <br/>
@@ -257,9 +256,6 @@ me.say_hi()
 </table>
 
 <br/>
-
-<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="450"/>
-<p><em>"Me training my 1000th neural network at 3 AM"</em></p>
 
 ### AI/ML Expertise
 
@@ -382,9 +378,6 @@ class AIMLExpertise:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arnab-dot&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&area=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arnab-dot&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
 
 <!-- Snake Animation -->
 <div align="center">
